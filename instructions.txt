@@ -1,0 +1,18 @@
+
+press  1 = bottom most car will start moving
+press shift 1 =bottom most car will stop moving
+
+press 2 = bottom top car will start moving
+press shift 2 =bottom top car will stop moving
+
+
+press 3 = upper top car will start moving
+press shift 3 =upper top car will stop moving
+
+
+press 4 =  upper down car will start moving
+press shift 4 = upper down car will stop moving
+
+
+press 5= sun will be down and it will go on night mode
+press shift 5 = turn into day mode 
